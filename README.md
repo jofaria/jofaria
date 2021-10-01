@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jofaria. Nice to e-meet you!
 - 👀 I’m a marketer getting started with web development.
 - 🌱 I’m currently learning CSS and Javascript.
-- 📫 You can reach me on Linkedin: linkedin.com/in/joana.adaodefaria
+- 📫 You can reach me on Linkedin: linkedin.com/in/joanaadaodefaria
 
 <!---
 jofaria/jofaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
