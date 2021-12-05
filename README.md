@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jofaria. Nice to e-meet you!
-- 👀 I’m full-stack developer in the making, with a background in Marketing.
-- 🌱 Currently finishing a coding bootcamp in Lisbon!
+- 👀 I’m a full-stack developer in the making, with a background in Marketing.
+- 🌱 Currently enrolled in a coding bootcamp in Lisbon!
 - 📫 You can reach me on Linkedin: linkedin.com/in/joanaadaodefaria
 
 <!---
